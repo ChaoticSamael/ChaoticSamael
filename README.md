@@ -31,8 +31,21 @@
 -->
 # 💫 About Me:
 ✨ My pronouns are He/She/They<br><br> 🔭 Student at 42Madrid<br><br> 🛠️ Learning C and Python<br><br> 🔍 Some experience in cybersecurity<br><br> 💫 Interests 💫<br>        - Software development    <br>        - Cybersecurity<br>        - Data analysis<br>  <br>
+![42Network](https://camo.githubusercontent.com/ccff7245683f3e3013db7b83e80470a8afa7fd3f016a624a2f2caad29836e1cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f34322d4e6574776f726b2d626c61636b3f7374796c653d666c6174266c6f676f3d3432266c6f676f436f6c6f723d7768697465)
 
+<!--
+### 📂 42 Projects --Currently under revision--
 
+| Project    | Description            | Status      |
+|-------------|------------------------|-------------|
+|[Libft](https://github.com/ChaoticSamael/42-Libft)    | Custom C library with essential standard functions reimplemented and other useful functions | ✅  |
+|Born2beroot | Virtual machine project focused on system administration and security | ✅  |
+|[ft_printf](https://github.com/ChaoticSamael/42-printf)    | Simplified version of `printf` in C | ✅  |
+|[get_next_line](https://github.com/ChaoticSamael/42-get_next_line)    | Function to read a line from a file descriptor efficiently | ✅  |
+|[Fract-ol](https://github.com/ChaoticSamael/42-fract-ol)    | Interactive fractal visualizer in C | ✅  |
+|[push_swap](https://github.com/ChaoticSamael/pushswap)    | Optimized stack-based sorting algorithm under strict constraints | ✅  |
+|[Minitalk](https://github.com/ChaoticSamael/minitalk)    | Unix signal-based inter-process communication (IPC) system | ✅  |
+-->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elvira-langarica-352192353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:langarica.mag@gmail.com) 
 
